@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9224
     wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25508#The-Strand-DistrictThe-Fascination-of-London
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2008-05-17'
 gutenberg_type: Text
